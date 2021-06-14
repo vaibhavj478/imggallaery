@@ -1,0 +1,36 @@
+/* .container{
+
+    border: 2px solid black;
+   
+   
+} */
+
+
+.blocks{
+    display: inline-block;
+    border:2px solid black;
+    width: 180px;
+    
+    
+}
+.blocks a{
+
+    text-align: center;
+    text-decoration:none;
+    
+}
+a img{
+
+    height: auto ;
+    width:100%; 
+  
+    
+    
+}
+span{
+    display: block;
+    color: black;
+    text-decoration: none;
+    text-transform: capitalize;
+    padding: 15px 10px;
+}
